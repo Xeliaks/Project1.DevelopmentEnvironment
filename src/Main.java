@@ -7,5 +7,6 @@ public class Main {
         System.out.println("My name is Bogdan Borachuk.");
         System.out.println("This program is written using IntelliJ IDEA.");
         System.out.println("I'm excited to write this text!");
+        System.out.println("It's a good starting point, everything is set up.");
         }
     }
